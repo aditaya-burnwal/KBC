@@ -65,6 +65,7 @@
   ### Pushing your code
     Once you have solved it in your local, push it to a private repo and message us that you have solved it, Also don't forget to add usernames: [“vedansh”, “prachipathrayan”] as collaborators
 
-  
+```
+### Made with ❤ by Aditaya Burnwal
 
 
